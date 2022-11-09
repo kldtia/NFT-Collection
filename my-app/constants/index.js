@@ -580,6 +580,5 @@ export const abi = [
     {
       "stateMutability": "payable",
       "type": "receive"
-    }
+    },
   ]
-
